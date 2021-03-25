@@ -1,7 +1,6 @@
 # Custom
 input/
-.vscode/
-
+__results___files/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
