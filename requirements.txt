@@ -5,3 +5,6 @@ python-multipart
 uvicorn
 starlette
 gdown
+aiofiles
+jinja2
+matplotlib
