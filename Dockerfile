@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow:latest
+FROM tensorflow/tensorflow:2.4.3
 COPY . .
 
 RUN pip3 install --upgrade pip

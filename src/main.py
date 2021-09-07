@@ -1,9 +1,9 @@
 from starlette.applications import Starlette
 from starlette.responses import JSONResponse
 from starlette.routing import Route
-from keras.preprocessing import image
+from tensorflow.keras.preprocessing import image
 import numpy as np
-from keras.models import load_model
+from tensorflow.keras.models import load_model
 from PIL import Image
 import io
 
